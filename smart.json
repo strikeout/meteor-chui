@@ -2,7 +2,7 @@
     "name": "chui",
     "description": "ChocolateChipUI (chui) smart package for Meteor ",
     "author": "Thomas Steinhauer",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "homepage": "https://github.com/strikeout/meteor-chui",
     "git": "https://github.com/strikeout/meteor-chui.git",
     "packages": {}
