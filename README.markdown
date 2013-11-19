@@ -1,10 +1,3 @@
-A wrapper for the excellent jQuery-Knob library (https://github.com/aterrien/jQuery-Knob)
+A wrapper for the excellent ChocolateChipUI (chui) mobile library
 
-Just use it as you normally would
-
-```js
-$(".dial").knob({
-  'min':-50
- ,'max':50
-});
-```
+Just use it as you normally would, all files are included

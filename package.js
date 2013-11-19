@@ -1,5 +1,5 @@
 Package.describe({
-    summary: "ChocolateChipUI smart package for Meteor"
+    summary: "ChocolateChipUI (chui) smart package for Meteor"
 });
 
 Package.on_use(function(api, where) {
